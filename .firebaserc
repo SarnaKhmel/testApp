@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "testapp-2ded5",
+    "firebase-react-deploy": "testapp-2ded5"
+  }
+}
